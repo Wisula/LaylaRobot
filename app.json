@@ -1,7 +1,7 @@
 {
       "name": "Layla Robot",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/8f6b24120aab8490dca45.jpg",
+      "logo": "https://telegra.ph/file/8dec39ab56b537e430c5f.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Layla"
       ],   
-   "repository": "https://github.com/QueenArzoo/LaylaRobot.git",
+   "repository": "https://github.com/wisula/LaylaRobot.git",
    "addons": [
       {
          "options": {
